@@ -2,7 +2,6 @@
 
 AI Voice Translator Using Python Automatic Speech To Text To Audio Translate To Text Translated
 
-
-#AI Voice Translator Learning Tutorial
+# AI Voice Translator Learning Tutorial
 
 Link: 
