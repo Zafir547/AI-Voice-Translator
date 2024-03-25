@@ -1,0 +1,8 @@
+playsound
+SpeechRecognition
+googletrans
+gTTs
+gTTS-token
+pygame
+PyAudio
+translate
