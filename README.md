@@ -4,13 +4,13 @@ AI Voice Translator Using Python Automatic Speech To Text To Audio Translate To 
 
 # Virtual Environment
 
-1.You need making new folder directory name project 
+ 1.You need making new folder directory name project 
 
-2. right click terminal and cmd open now
+ 2. right click terminal and cmd open now
 
-3. write (python -m venv venv)
+ 3. write (python -m venv venv)
 
-4. Virtualenv activate write (venv\Scripts\activate.bat)
+ 4. Virtualenv activate write (venv\Scripts\activate.bat)
 
 # Moduled Needed
 
